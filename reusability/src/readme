@@ -1,0 +1,8 @@
+This directory should contain all the sources and so
+whatever is the code keep it here itself and then 
+when you compile move the class file to the respective
+package....
+
+Take care about mentioning the package name at the start
+and also to after compiling put the class file into the
+same package name as mentioned!

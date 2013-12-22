@@ -1,0 +1,21 @@
+---> folder discriptions : 
+
+linklist : binaries '.class' files of the linklist data structure
+	    compiled from src/linklist.java
+src : contains all the source ".java" files for different packages.
+structure : binaries '.class' for the node.
+**NOTE : in /src/linklist.java there must be the package declaration 
+	    "package linklist;"
+
+---> files here : 
+linklist.java : usage of functions!
+linklist.class : binary of 'linklist.java'
+
+---> sh files and their functions : 
+unode.sh : updates related to node structure file "src/node.java" 
+will pertain everywhere throughout the project.
+ulist.sh : updates related to list implementation file "src/list.java"
+will pertain everywhere throughout the project.
+uall.sh : every changes to "src/*" will pertain everywhere and all ".java"
+sources in the current directory will be recompiled!
+uc.sh : removes all backup files "*~" from the entire project.

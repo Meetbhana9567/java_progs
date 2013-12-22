@@ -1,0 +1,10 @@
+Which one is better???
+
+It seems that the first one is better i.e. example of "direct"
+
+But no... When using the "direct" you need to copy it's class
+everytime to the present working directory... But with the package
+proper placement of the file then... it will work for all multiple
+projects and program with anydirectory with simple import...
+
+---- and this is how we can use the concept of "reusability" ----

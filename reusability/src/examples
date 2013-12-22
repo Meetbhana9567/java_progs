@@ -1,0 +1,9 @@
+here in this folder there are two sources...
+
+one with the package declaration : mypack.java
+
+and the other : direct.java
+
+the file test.java indicates the use of "mypack"
+
+while example.java indicates the use of "direct"
